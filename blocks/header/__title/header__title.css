@@ -1,0 +1,9 @@
+.header__title {
+  font-family: "Inter-SemiBold", sans-serif;
+  font-weight: 600;
+  font-size: 102px;
+  line-height: 96px;
+  width: 730px;
+  margin-left: 64px;
+  z-index: 3;
+}

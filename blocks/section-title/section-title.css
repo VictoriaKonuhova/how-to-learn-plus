@@ -1,0 +1,10 @@
+@import url('./_theme/section-title_theme_dark.css');
+
+.section-title{
+  text-align: center;
+  font-size: 60px;
+  line-height: 1.15;
+  font-family: 'Inter-SemiBold', sans-serif;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
