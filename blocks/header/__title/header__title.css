@@ -1,9 +1,10 @@
 .header__title {
-  font-family: "Inter-SemiBold", sans-serif;
+  margin: 0;
   font-weight: 600;
   font-size: 102px;
   line-height: 96px;
-  width: 730px;
+  max-width: 730px;
+  width: 100%;
   margin-left: 64px;
   z-index: 3;
 }
