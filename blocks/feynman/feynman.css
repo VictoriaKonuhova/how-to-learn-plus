@@ -1,4 +1,5 @@
 .feynman {
+  box-sizing: border-box;
   padding-top: 100px;
   min-height: 890px;
   background: no-repeat #f2f2f2 url("../../images/feynman.png") bottom left;
